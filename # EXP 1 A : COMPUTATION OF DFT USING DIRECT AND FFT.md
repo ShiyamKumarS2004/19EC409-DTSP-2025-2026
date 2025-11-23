@@ -1,6 +1,5 @@
 # EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
-# NAME : SHIYAM KUMAR S
-# REG NO : 212223060260
+
 # AIM: 
 
 # To Obtain DFT and FFT of a given sequence in SCILAB. 
