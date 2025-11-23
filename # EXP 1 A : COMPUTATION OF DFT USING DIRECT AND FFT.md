@@ -10,6 +10,7 @@ PC installed with SCILAB.
 # PROGRAM: 
 # DFT
 ```
+
 clc;
 clear;
 xn=[1 2 3 4 4 3 2 1]; 
